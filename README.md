@@ -88,3 +88,5 @@ swiggy-sales-analysis-dashboard/
 * Designing KPIs for performance monitoring
 * Building effective data visualizations
 * Presenting analytical findings in a clear and structured format
+  
+> **Note:** This project was developed as part of my Excel learning journey using a publicly available educational dataset and tutorial. I recreated the dashboard, performed the analysis, and documented the project to strengthen my Excel and data analytics skills.
